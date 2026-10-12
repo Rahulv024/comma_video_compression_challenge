@@ -1,0 +1,4 @@
+* text eol=lf
+*.zip binary
+# Preserve the exact evaluated upstream file, including its final blank line.
+runtime/compensation_overlay.py whitespace=-blank-at-eof
